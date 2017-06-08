@@ -1,0 +1,9 @@
+{
+  "name": "starfleet-battles",
+  "version": "0.1.0",
+  "description": "A toolkit for managing Starfleet Battles games",
+  "main": "index.js",
+  "repository": "git@github.com:matt-morris/starfleet-battles.git",
+  "author": "Matt Morris <double.emms@gmail.com>",
+  "license": "MIT"
+}
